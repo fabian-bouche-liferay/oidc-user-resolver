@@ -1,0 +1,7 @@
+Bundle-Name: oidc-fragment
+Bundle-SymbolicName: oidc.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.portal.security.sso.openid.connect.impl
+Export-Package:\
+	com.liferay.portal.security.sso.openid.connect.internal,\
+	com.liferay.portal.security.sso.openid.connect.internal.exception

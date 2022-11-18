@@ -1,0 +1,3 @@
+Bundle-Name: oidc-user-resolver
+Bundle-SymbolicName: com.liferay.samples.fbo.oidc.user.resolver
+Bundle-Version: 1.0.0
